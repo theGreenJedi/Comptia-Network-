@@ -2,7 +2,7 @@
 hodepodge notes, repos etc
 
 
-# WIP_network-handbook
+# WIP_network-handbook (forked from DanySafatli/network-handbook )
 
 comptia-network-(n10-006)_examobjectives.pdf - pdf that provides all the objectives for the exam 
 
